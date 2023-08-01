@@ -1,9 +1,10 @@
 launch.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
-env/
 *.py[cod]
 *$py.class
+*.ini
+*.jsonc
 
 # PyCharm IDE Settings
 .idea/
